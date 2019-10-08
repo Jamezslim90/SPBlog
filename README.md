@@ -1,2 +1,2 @@
 # SPBlog
-A Sales and digital Marketing Blog for SMEs and Entrepreneurs
+A Sales and Digital Marketing Blog for SMEs and Entrepreneurs
